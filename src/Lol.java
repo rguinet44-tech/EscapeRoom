@@ -1,4 +1,5 @@
 public class Lol {
-    TAMEREQUIRITSORT
-    
+    public static void main(String[] args) {
+        System.out.println("balade");
+    }
 }
